@@ -1,9 +1,13 @@
 pandas 
 numpy 
+scikit-learn 
 nltk 
 matplotlib
 seaborn 
 gensim 
 gdown
 dvc 
+dvc_s3 
 mlflow 
+dagshub 
+optuna 
